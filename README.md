@@ -45,10 +45,10 @@ Nota: Los lenguajes más usados no indican mi nivel de dominio sobre ellos, sino
 <a href="https://www.linkedin.com/in/luis-chut%C3%A1-3b5454195">
     <img align="left" alt="Luis Chutá | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
-  <a href="https://twitter.com/andarrz">
+  <a href="https://twitter.com/ChutLuis">
     <img align="left" alt="Luis Chutá | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
   </a>
-  <a href="mailto:asgasebastian@gmail.com">
+  <a href="mailto:l.chuta2014ig@gmail.com">
     <img align="left" alt="Luis Chutá | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
 
