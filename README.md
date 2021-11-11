@@ -3,7 +3,7 @@
 Yo soy Luis Chutá, un apasionado estudiante de ingeniería en informática y sistemas de Guatemala.<br/>
 Actualmente soy desarrollador web, desarrollador de filtros de IG y FB, ademas de manejar frameworks 3D como ThreeJs o Aframe
 ## Habilidades
-<img src="https://img.shields.io/badge/-C%23-blueviolet" /> <img src="https://img.shields.io/badge/-C%2B%2B-blue" /> <img src="https://img.shields.io/badge/-Java-orange" />
+<img src="https://img.shields.io/badge/-C%23-blueviolet" /> <img src="https://img.shields.io/badge/-C%2B%2B-blue" /> <img src="https://img.shields.io/badge/-JavaScript-orange" />
 <img src="https://img.shields.io/badge/-HTML-red" /> <img src="https://img.shields.io/badge/-PHP-%235A4AB8" /> <img src="https://img.shields.io/badge/-SQL%20Server-lightgrey" /> <img src="https://img.shields.io/badge/-Assembly-lightgrey" />   <img src="https://img.shields.io/badge/-Python-yellow" /> <img src="https://img.shields.io/badge/-LaTeX-darkgreen" /> <img src="https://img.shields.io/badge/-Photoshop-9cf" />
 <details>
 	<summary>Herramientas</summary>
